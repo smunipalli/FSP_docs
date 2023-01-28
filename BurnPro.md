@@ -9,4 +9,4 @@
   - Primary focus is the idealised grass
 
 # Qunli Li's repo
-  - https://github.com/OAAS-BEAR/WildFire-Project.gi
+  - https://github.com/OAAS-BEAR/WildFire-Project.git
