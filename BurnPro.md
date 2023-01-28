@@ -8,5 +8,5 @@
   - https://github.com/BurnPro3D/data-api-notebooks.git
   - Primary focus is the idealised grass
 
-# Quil Li's repo
+# Qunli Li's repo
   - https://github.com/OAAS-BEAR/WildFire-Project.gi
